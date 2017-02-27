@@ -5,7 +5,7 @@ This repository has angular 2 + webpack + material Design + bootstrap + yarn.
 ### Quick start
 
 * Clone/Download the repo.
-* install yarn globally "npm install -g yarn" or lookup here [Yarn-Package Manager](https://yarnpkg.com/en/)"
+* install yarn globally "npm install -g yarnpkg" or lookup here [Yarn-Package Manager](https://yarnpkg.com/en/)"
 * Run "yarn" without the quotes
 * npm start
 * Go to `http://localhost:8080/record-rtc`in your browser
