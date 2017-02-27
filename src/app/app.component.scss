@@ -4,13 +4,14 @@
 }
 
 header {
-  background-color: #fff;
+  background-color: #62b778;
   padding: 16px;
   position: fixed;
   top: 0;
   left: 0;
   width: 100%;
   box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.5);
+  z-index: 9;
 }
 
 main {

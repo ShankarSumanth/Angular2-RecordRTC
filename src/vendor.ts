@@ -11,3 +11,5 @@ import '@angularclass/hmr';
 
 // Other vendors for example jQuery, Lodash or Bootstrap
 // You can import js, ts, css, sass, ...
+import 'bootstrap/dist/css/bootstrap.min.css';
+import '@angular/material/core/theming/prebuilt/purple-green.css'

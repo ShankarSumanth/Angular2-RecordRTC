@@ -7,6 +7,7 @@ import { MaterialModule } from '@angular/material';
 import { AppComponent } from './app.component';
 import { HomeComponent } from './home/home.component';
 import { AboutComponent } from './about/about.component';
+import { RecordRTCComponent } from './record-rtc/record-rtc.component';
 import { ApiService } from './shared';
 import { routing } from './app.routing';
 
@@ -23,7 +24,8 @@ import { removeNgStyles, createNewHosts } from '@angularclass/hmr';
   declarations: [
     AppComponent,
     HomeComponent,
-    AboutComponent
+    AboutComponent,
+    RecordRTCComponent
   ],
   providers: [
     ApiService
