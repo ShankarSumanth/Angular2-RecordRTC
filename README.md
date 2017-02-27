@@ -9,7 +9,7 @@ This repository has angular 2 + webpack + material Design + bootstrap + yarn.
 * Run "yarn" without the quotes
 * npm start
 * Go to `http://localhost:8080/record-rtc`in your browser
-* you nedd to give permissions to access webcam and microphone
+* you need to give permissions to access webcam and microphone
 
 # License
 
