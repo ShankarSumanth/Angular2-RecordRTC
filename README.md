@@ -2,6 +2,8 @@
 
 This repository has angular 2 + webpack + material Design + bootstrap + yarn.
 
+[Integrate RecordRTC + Angular2](https://medium.com/@SumanthShankar/integrate-recordrtc-with-angular-2-typescript-942c9c4ca93f#.uvf53kwg8)
+
 ### Quick start
 
 * Clone/Download the repo.
