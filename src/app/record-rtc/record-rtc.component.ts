@@ -1,5 +1,5 @@
 import { Component, OnInit, ViewChild, AfterViewInit } from '@angular/core';
-import * as RecordRTC from 'recordrtc';
+let RecordRTC = require('recordrtc/RecordRTC.min');
 
 @Component({
   selector: 'record-rtc',
